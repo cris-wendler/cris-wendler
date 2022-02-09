@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Solidity; Go and Statistics 
 - 💞️ I’m looking to collaborate on open source DB/Data Automations
 - 📫 How to reach me: dboclock@gmail.com
-- Have a nice day
+- :) Have a nice day
 
 <!---
 cris-wendler/cris-wendler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
